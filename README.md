@@ -4,7 +4,7 @@ graphical calculator for early retirement
 Test coding project to learn C++. 
 
 ## Choice of language:
-Despite C++ obviously not being the ideal choice for this project, this is more of a challenge to learn more about it.
+Despite C++ obviously not being the ideal choice for this project, this is a challenge to learn more about it by doing something with it that it is not ideal for.
 
 ## Features:
 #### Main Features:
